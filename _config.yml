@@ -15,14 +15,15 @@ website: www.github.com/Yooonzero
 darkmode: false
 
 # Social links
-# twitter_username: facespics
 github_username: yooonzero
+linkedin_username: yoon-young-kwon-b029b7288
+
+# twitter_username: facespics
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: yoon-young-kwon-b029b7288
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -30,10 +31,10 @@ linkedin_username: yoon-young-kwon-b029b7288
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-    - title: itsgoingto.be
-      icon: fas fa-globe
-      url: https://www.itsgoingto.be
+# additional_links:
+#     - title: itsgoingto.be
+#       icon: fas fa-globe
+#       url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
