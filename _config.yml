@@ -106,7 +106,7 @@ content:
             quote: >
                 실제 서비스 중인 트렐로(Trello)를 모티브로 하여 일정을 기록 수정 삭제할 수 있는 칸반보드 서비스를 구현
             description: | # this will include new lines to allow paragraphs
-                간단요약 / 트러블슈팅 / 커뮤니케이션 (1)
+                간단요약
 
           - layout: left
             title: 백오피스 프로젝트 "PETSITTER"
