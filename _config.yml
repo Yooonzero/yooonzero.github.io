@@ -138,7 +138,7 @@ content:
             quote: >
                 영화 검색 페이지 만들기
             description: | # this will include new lines to allow paragraphs
-                간단요약 / 트러블슈팅 / 커뮤니케이션 (1)
+                간단요약 / 트러블슈팅
 
     # - title: Experience # Title for the section
     #   layout: list # Type of content section (list/text)
