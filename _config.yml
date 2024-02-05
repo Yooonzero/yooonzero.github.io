@@ -183,6 +183,7 @@ content:
             quote: >
 
             description: | # this will include new lines to allow paragraphs
+                - 9 to 9 방식으로 진행
                 - 5개월간 총 6개의 팀프로젝트를 매번 새로운 팀원으로 구성하여 진행
                 - 해당 주차에 팀프로젝트를 진행하기 위한 가장 기초적인 베이스는 강의수강으로 진행
                 - 추가적으로 기능을 업그레이드 하고싶은 부분은 팀원들간 회의를 통해서 자율적으로 가능
