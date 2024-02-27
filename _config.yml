@@ -48,13 +48,15 @@ linkedin_username: yoon-young-kwon-b029b7288
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    나이 : 29세 (만27세) / (1996년 12월 11일)
+    나이 : 29세 (만27세) / (1996년 12월 11일)   
 
-    병역사항 : 육군하사 전역 (2016년 10월 ~ 2019년 6월)
+    병역사항 : 육군하사 전역 (2016년 10월 ~ 2019년 6월)   
 
-    사용기술 : <mark>Javascript</mark> <mark>Node.js</mark> <mark>Typescript</mark> <mark>Nest.js</mark>
+    사용기술 : <mark>Javascript</mark> <mark>Node.js</mark> <mark>Typescript</mark> <mark>Nest.js</mark>   
 
-    유지 보수하기 편리하고, 지속적인 성장이 가능한 소프트웨어 개발에 관심을 갖고 있습니다.
+    개인성향 : 사람을 좋아해서 협업하는 부분에 재미를 느끼고, 어떤 업무든 적응을 잘하는 편이다.   습득력이 빠르다는 소리를 주변에서 많이 듣는 편이며, 이 빠른 습득력을 통해 실무에서도 많은 성장을 해내고자 하는 욕심이 있다.
+
+    현재 바라는 것 : 주니어 개발자로써 빠르게 실무에 몸담아 그 안에서 협업과 개발을 비롯한 실무 경험을 쌓고싶고, 경험을 통한 배움으로 개발자 권윤영으로써 단단해지고 성장하고 싶다.
 
 content:
     - title: Projects # Title for the section
