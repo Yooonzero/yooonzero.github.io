@@ -76,9 +76,11 @@ content:
             quote: >
                 현재 서비스중인 잡코리아, 사람인, 링크드인과 같은 취업지원 사이트를 모티브로 취업지원 및 채용서비스 구현
             description: | # this will include new lines to allow paragraphs
-                - 요약
-                    - 기업과 사용자로 나누어 서비스 이용
-                    - <mark>Typescript</mark>, <mark>Nest</mark>, <mark>mySQL</mark>
+                - 담당기능
+                    - 검색기능에 검색엔진인 aws OpenSearch 적용
+                    - Swagger를 통한 API가시화
+                    - Cron을 사용한 softDelete 데이터 주기적으로 자동삭제 구현
+                    - 검색 필터 기능 구현
                 - 트러블슈팅 : 
                 - 커뮤니케이션 :
 
@@ -186,20 +188,20 @@ content:
 
             description: | # this will include new lines to allow paragraphs
                 - 9 to 9 방식으로 진행
-                - 5개월간 총 6개의 팀프로젝트를 매번 새로운 팀원으로 구성하여 진행
-                - 해당 주차에 팀프로젝트를 진행하기 위한 가장 기초적인 베이스는 강의수강으로 진행
-                - 추가적으로 기능을 업그레이드 하고싶은 부분은 팀원들간 회의를 통해서 자율적으로 가능
-                - 프로젝트를 제출하고 피드백을 받는 식의 멘토링
+                - 5개월간 총 6개의 팀프로젝트를 매번 랜덤 팀원으로 구성하여 진행
+                - 각 주차에 해당하는 팀프로젝트를 진행하기 위한 필요개념들은 지급해주는 강의를 통해서 학습
+                - 팀내 팀원들과의 커뮤니케이션을 통해서 자체적으로 프로젝트 방향성 추가 제시 가능
+                - 담당 멘토분과 프로젝트 제출 후 피드백을 진행받는 형식으로 진행
 
     - title: My hobby
       layout: text
       quote: >
-          평소 즐겨하거나 좋아하는 취미활동 입니다.
+          평소 즐겨하거나 좋아하는 활동들...
       content: | # this will include new lines to allow paragraphs
           - 모든 구기종목 (축구, 풋살, 탁구, 볼링...)
           - 게임 (서든어택, 롤, 배그)
-          - 영화시청 (액션, 코미디)
-          - 노래 (장르불문하고 제 맘에 드는 곡들만 플레이리스트에 넣어두고 듣습니다.)
+          - 영화 (액션, 코미디)
+          - 노래 (발라드, 힙합, 인디)
 
       #   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
